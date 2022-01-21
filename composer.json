@@ -1,0 +1,19 @@
+{
+  "name": "f_alves97/routes",
+  "description": "Pequena biblioteca para gerenciamento de rotas",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Fernando Braga Alves",
+      "email": "f.braga.alves1@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Source\\": "src/"
+    }
+  },
+  "require": {
+  }
+}
